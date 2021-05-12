@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+body{
+  background-color: #282c34;
+}
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#one{
+  background-color:red;
+  border: 2px solid red;
+    height: 280px;
+  width: 200px;
+  margin-left: -10px;
+ 
+
+}
+#two{
+  background-color: blue;
+  border: 2px solid blue;
+    height: 280px;
+  width: 200px;
+   margin-top:-285px;
+   margin-left: 300px;
+}
+#three{
+  background-color: cyan;
+  border: 2px solid cyan;
+    height: 280px;
+  width: 200px;
+   margin-left: -10px;
+  margin-top:30px;
+}
+#four{
+  background-color: black;
+  border: 2px solid black;
+    height: 280px;
+  width: 200px;
+  margin-top:-285px;
+  margin-left: 300px;
+}
+#five{
+  background-color: green;
+  border: 2px solid green;
+    height: 280px;
+  width: 200px;
+  margin-top:-410px;
+  margin-left: 150px;
+  position: sticky;
+  
+
+}
+#heading{
+  display: block;
+  font-size: 20px;
+  color:white;
+  margin-left: 0px;
+
+}
