@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dhwani-frontend/static/css/main.56d6bac4.chunk.css",
+    "main.js": "/Dhwani-frontend/static/js/main.65faf50b.chunk.js",
+    "main.js.map": "/Dhwani-frontend/static/js/main.65faf50b.chunk.js.map",
+    "runtime-main.js": "/Dhwani-frontend/static/js/runtime-main.44b326fa.js",
+    "runtime-main.js.map": "/Dhwani-frontend/static/js/runtime-main.44b326fa.js.map",
+    "static/js/2.335b1a2f.chunk.js": "/Dhwani-frontend/static/js/2.335b1a2f.chunk.js",
+    "static/js/2.335b1a2f.chunk.js.map": "/Dhwani-frontend/static/js/2.335b1a2f.chunk.js.map",
+    "static/js/3.7c8a17a7.chunk.js": "/Dhwani-frontend/static/js/3.7c8a17a7.chunk.js",
+    "static/js/3.7c8a17a7.chunk.js.map": "/Dhwani-frontend/static/js/3.7c8a17a7.chunk.js.map",
+    "index.html": "/Dhwani-frontend/index.html",
+    "static/css/main.56d6bac4.chunk.css.map": "/Dhwani-frontend/static/css/main.56d6bac4.chunk.css.map",
+    "static/js/2.335b1a2f.chunk.js.LICENSE.txt": "/Dhwani-frontend/static/js/2.335b1a2f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Dhwani-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b326fa.js",
+    "static/js/2.335b1a2f.chunk.js",
+    "static/css/main.56d6bac4.chunk.css",
+    "static/js/main.65faf50b.chunk.js"
+  ]
+}
